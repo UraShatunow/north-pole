@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/north-pole/static/css/main.2ac7c0b4.chunk.css",
-    "main.js": "/north-pole/static/js/main.6c444766.chunk.js",
-    "main.js.map": "/north-pole/static/js/main.6c444766.chunk.js.map",
+    "main.css": "/north-pole/static/css/main.efc388cf.chunk.css",
+    "main.js": "/north-pole/static/js/main.bcb069cf.chunk.js",
+    "main.js.map": "/north-pole/static/js/main.bcb069cf.chunk.js.map",
     "runtime-main.js": "/north-pole/static/js/runtime-main.d2d521f4.js",
     "runtime-main.js.map": "/north-pole/static/js/runtime-main.d2d521f4.js.map",
     "static/js/2.7db03f5c.chunk.js": "/north-pole/static/js/2.7db03f5c.chunk.js",
     "static/js/2.7db03f5c.chunk.js.map": "/north-pole/static/js/2.7db03f5c.chunk.js.map",
     "index.html": "/north-pole/index.html",
-    "static/css/main.2ac7c0b4.chunk.css.map": "/north-pole/static/css/main.2ac7c0b4.chunk.css.map",
+    "static/css/main.efc388cf.chunk.css.map": "/north-pole/static/css/main.efc388cf.chunk.css.map",
     "static/js/2.7db03f5c.chunk.js.LICENSE.txt": "/north-pole/static/js/2.7db03f5c.chunk.js.LICENSE.txt",
     "static/media/intro.css": "/north-pole/static/media/intro-cover.b232940a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d2d521f4.js",
     "static/js/2.7db03f5c.chunk.js",
-    "static/css/main.2ac7c0b4.chunk.css",
-    "static/js/main.6c444766.chunk.js"
+    "static/css/main.efc388cf.chunk.css",
+    "static/js/main.bcb069cf.chunk.js"
   ]
 }
