@@ -1,0 +1,37 @@
+.gallery {
+    height: 60vh;
+    display: flex;
+}
+
+.gallery__small {
+    width: calc(100% / 3);
+    background: no-repeat center/cover url("./gallery-1.webp");
+}
+
+.gallery__bag {
+    width: calc(100% / 3);
+    background: no-repeat center/cover url("./gallery-2.webp");
+}
+
+.gallery__big {
+    width: calc(100% / 3);
+    background: no-repeat center/cover url("./gallery-3.webp");
+}
+
+.gallery__cover {
+    display: flex;
+    height: 100%;
+    background-color: rgba(0,0,0, 0.5);
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+}
+
+.gallery__cover:hover {
+    opacity: 1;
+}
+
+.gallery__cover p {
+    font-family: 'STIX Two Math', serif;
+    font-size: 28px;
+}

@@ -1,0 +1,33 @@
+.novelties {
+    background-color: black;
+    display: flex;
+}
+
+.novelties__inner {
+    height: 70vh;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.novelties__inner h3 {
+    font-size: 48px;
+    margin-bottom: 15px;
+}
+
+.novelties__inner a {
+    font-family: 'STIX Two Math', serif;
+    transition: 0.2s;
+    font-size: 24px;
+}
+
+.novelties__inner a:hover {
+    color: #A29C9C;
+}
+
+.novelties__pic {
+    width: 50%;
+    background: no-repeat center/cover url('./novelties.webp');
+}
