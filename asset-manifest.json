@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/north-pole/static/css/main.b0586058.chunk.css",
-    "main.js": "/north-pole/static/js/main.15c4f5aa.chunk.js",
-    "main.js.map": "/north-pole/static/js/main.15c4f5aa.chunk.js.map",
+    "main.css": "/north-pole/static/css/main.27301df1.chunk.css",
+    "main.js": "/north-pole/static/js/main.220690e5.chunk.js",
+    "main.js.map": "/north-pole/static/js/main.220690e5.chunk.js.map",
     "runtime-main.js": "/north-pole/static/js/runtime-main.d2d521f4.js",
     "runtime-main.js.map": "/north-pole/static/js/runtime-main.d2d521f4.js.map",
     "static/js/2.302dd496.chunk.js": "/north-pole/static/js/2.302dd496.chunk.js",
     "static/js/2.302dd496.chunk.js.map": "/north-pole/static/js/2.302dd496.chunk.js.map",
     "index.html": "/north-pole/index.html",
-    "static/css/main.b0586058.chunk.css.map": "/north-pole/static/css/main.b0586058.chunk.css.map",
+    "static/css/main.27301df1.chunk.css.map": "/north-pole/static/css/main.27301df1.chunk.css.map",
     "static/js/2.302dd496.chunk.js.LICENSE.txt": "/north-pole/static/js/2.302dd496.chunk.js.LICENSE.txt",
+    "static/media/about.css": "/north-pole/static/media/about.60dae375.webp",
     "static/media/gallery.css": "/north-pole/static/media/gallery-3.843d6c45.webp",
     "static/media/intro.css": "/north-pole/static/media/intro-cover.b232940a.jpg",
-    "static/media/novelties.css": "/north-pole/static/media/novelties.3916f060.webp"
+    "static/media/novelties.css": "/north-pole/static/media/novelties.3916f060.webp",
+    "static/media/sale.css": "/north-pole/static/media/sale-3.3ebd5330.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.d2d521f4.js",
     "static/js/2.302dd496.chunk.js",
-    "static/css/main.b0586058.chunk.css",
-    "static/js/main.15c4f5aa.chunk.js"
+    "static/css/main.27301df1.chunk.css",
+    "static/js/main.220690e5.chunk.js"
   ]
 }
