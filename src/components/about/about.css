@@ -1,0 +1,27 @@
+.about {
+    height: 70vh;
+    background: no-repeat center/cover url('./about.webp');
+}
+
+.about__inner {
+    height: 100%;
+    width: 50%;
+    background-color: rgba(0,0,0, 0.5);
+    display: flex;
+    justify-content: flex-end;
+}
+
+.about__text {
+    width: 60%;
+    padding: 100px 60px 0 0;
+}
+
+.about__text h2 {
+    font-size: 40px;
+    line-height: 1.8;
+}
+
+.about__text p {
+    font-size: 22px;
+    font-weight: 300;
+}

@@ -6,10 +6,8 @@
     padding: 0;
     text-decoration: none;
     color: white;
-}
-
-.app {
     font-family: 'Rubik', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+

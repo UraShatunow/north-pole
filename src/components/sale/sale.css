@@ -1,0 +1,70 @@
+.sale {
+    background-color: black;
+}
+
+.sale__container {
+    margin: 0 auto;
+    padding: 80px 0;
+    width: 1100px;
+    text-align: center;
+}
+
+.sale__container h2 {
+    font-size: 40px;
+}
+
+.sale__container h3 {
+    font-family: 'STIX Two Math', serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 15px;
+}
+
+.sale__inner {
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sale__inner a {
+    transition: 0.5s;
+}
+
+.sale__inner a:hover {
+    background-color: #A4A4A4;
+}
+
+.sale__item {
+    width: 32.5%;
+}
+
+.sale__item-pic {
+    height: 350px;
+}
+
+.sale__item-pic-1 {
+    background: no-repeat center/contain url('./sale-1.webp'), #000;
+}
+
+.sale__item-pic-2 {
+    background: no-repeat center/contain url('./sale-2.webp'), #000;
+}
+
+.sale__item-pic-3 {
+    background: no-repeat center/contain url('./sale-3.webp'), #000;
+}
+
+.sale__item-text {
+    padding: 20px 0;
+}
+
+.sale__item-text h4 {
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.sale__item-text span {
+    text-decoration: line-through;
+    margin-right: 20px;
+}
