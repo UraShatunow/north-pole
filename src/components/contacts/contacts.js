@@ -12,7 +12,7 @@ const Contacts = () => {
                     <input className="form__input" type="text" name="name" placeholder="Имя" />
                 </div>
                 <div className="form__field">
-                    <input className="form__input" type="text" name="email" placeholder="Эл. почта" />
+                    <input className="form__input" type="text" name="email" placeholder="Эл. почта" required />
                 </div>
                 <div className="form__field">
                     <input className="form__input" type="text" name="phoneNumber" placeholder="Телефон" />

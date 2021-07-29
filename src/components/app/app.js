@@ -15,6 +15,10 @@ export default class App extends Component {
             <Switch>
 
               <Route path="/" component={HomePage} exact />
+
+              <Route path='/facebook' component={() => { window.location.href = 'https://www.facebook.com/' }}/>
+              <Route path='/twitter' component={() => { window.location.href = 'https://www.twitter.com/' }}/>
+              <Route path='/instagram' component={() => { window.location.href = 'https://www.instagram.com/' }}/>
                   
             </Switch>
 
