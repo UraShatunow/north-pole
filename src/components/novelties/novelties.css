@@ -31,3 +31,29 @@
     width: 50%;
     background: no-repeat center/cover url('./novelties.webp');
 }
+
+@media screen and (max-width: 1025px) {
+    
+    .novelties__inner {
+        height: 500px;
+    }
+
+}
+
+@media screen and (max-width: 767px) {
+    
+    .novelties__pic {
+        width: 100%;
+        height: 300px;
+    }
+
+    .novelties__inner {
+        width: 100%;
+        height: 300px;
+    }
+
+    .novelties {
+        flex-wrap: wrap;
+    }
+
+}

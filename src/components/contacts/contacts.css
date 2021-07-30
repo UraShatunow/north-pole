@@ -74,3 +74,50 @@
     font-size: 22px;
     font-weight: 400;
 }
+
+@media screen and (max-width: 1025px) {
+    
+    .contacts__container {
+        width: 95%;
+    }
+
+    .contacts__text {
+        padding-left: 40px;
+    }
+
+    .contacts__form {
+        padding-right: 40px;
+    }
+
+}
+
+@media screen and (max-width: 767px) {
+
+    .contacts__text {
+        padding-left: 0;
+    }
+
+    .contacts__form {
+        padding-right: 0;
+    }
+
+    .contacts__text {
+        width: 100%;
+        order: 1;
+    }
+
+    .contacts__form {
+        width: 100%;
+        order: 2;
+        margin-top: 40px;
+    }
+
+    .contacts__container {
+        flex-wrap: wrap;
+    }
+
+    .contacts {
+        padding: 40px 0;
+    }
+
+}

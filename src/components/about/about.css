@@ -25,3 +25,33 @@
     font-size: 22px;
     font-weight: 300;
 }
+
+@media screen and (max-width: 1025px) {
+    
+    .about {
+        height: inherit;
+    }
+
+    .about__text {
+        width: 90%;
+        padding: 50px 20px;
+    }
+
+    .about__inner {
+        justify-content: center;
+    }
+
+}
+
+@media screen and (max-width: 767px) {
+    
+    .about__inner {
+        width: 100%;
+    }
+
+    .about__text {
+        width: 95%;
+        padding: 50px 0;
+    }
+
+}

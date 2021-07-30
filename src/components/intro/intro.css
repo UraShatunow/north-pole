@@ -33,3 +33,31 @@
     position: absolute;
     bottom: 10%;
 }
+
+@media screen and (max-width: 767px) {
+    
+    .intro h1 {
+        font-size: 34px;
+    }
+
+    .intro__arrow {
+        display: none;
+    }
+
+    .intro {
+        min-height: 500px;
+    }
+
+}
+
+@media screen and (max-width: 426px) {
+    
+    .intro h1 {
+        font-size: 26px;
+    }
+
+    .intro {
+        min-height: 300px;
+    }
+
+}

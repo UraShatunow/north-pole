@@ -68,3 +68,25 @@
     text-decoration: line-through;
     margin-right: 20px;
 }
+
+@media screen and (max-width: 1150px) {
+    
+    .sale__container {
+        width: 95%;
+    }
+
+}
+
+@media screen and (max-width: 767px) {
+    
+    .sale__item {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .sale__inner {
+        display: flex;
+        flex-direction: column;
+    }
+
+}

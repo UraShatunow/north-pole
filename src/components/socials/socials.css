@@ -26,3 +26,11 @@
 .socials__instagram {
     background: no-repeat center/cover url('./in.webp');
 }
+
+@media screen and (max-width: 1050px) {
+    
+    .socials {
+        display: none;
+    }
+
+}

@@ -12,3 +12,11 @@
 .footer__container p {
     color: #9A9294;
 }
+
+@media screen and (max-width: 767px) {
+    
+    .footer__container {
+        width: 90%;
+    }
+
+}

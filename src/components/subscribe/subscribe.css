@@ -52,3 +52,24 @@
     border: 1px solid #A29C9C;
 }
 
+@media screen and (max-width: 767px) {
+    
+    .subscribe__container {
+        width: 90%;
+    }
+
+    .subscribe {
+        background-color: #141414;
+        padding: 40px 0;
+    }
+
+    .subscribe__container h2 {
+        font-size: 22px;
+    }
+
+    .subscribe__container h3 {
+        font-size: 17px;
+        margin-top: 5px;
+    }
+
+}
