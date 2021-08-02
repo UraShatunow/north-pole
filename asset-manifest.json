@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/north-pole/static/css/main.034106a3.chunk.css",
-    "main.js": "/north-pole/static/js/main.4202c216.chunk.js",
-    "main.js.map": "/north-pole/static/js/main.4202c216.chunk.js.map",
+    "main.css": "/north-pole/static/css/main.7a252ef8.chunk.css",
+    "main.js": "/north-pole/static/js/main.18a432e7.chunk.js",
+    "main.js.map": "/north-pole/static/js/main.18a432e7.chunk.js.map",
     "runtime-main.js": "/north-pole/static/js/runtime-main.d2d521f4.js",
     "runtime-main.js.map": "/north-pole/static/js/runtime-main.d2d521f4.js.map",
-    "static/js/2.8e23ff70.chunk.js": "/north-pole/static/js/2.8e23ff70.chunk.js",
-    "static/js/2.8e23ff70.chunk.js.map": "/north-pole/static/js/2.8e23ff70.chunk.js.map",
+    "static/js/2.764c365f.chunk.js": "/north-pole/static/js/2.764c365f.chunk.js",
+    "static/js/2.764c365f.chunk.js.map": "/north-pole/static/js/2.764c365f.chunk.js.map",
     "index.html": "/north-pole/index.html",
-    "static/css/main.034106a3.chunk.css.map": "/north-pole/static/css/main.034106a3.chunk.css.map",
-    "static/js/2.8e23ff70.chunk.js.LICENSE.txt": "/north-pole/static/js/2.8e23ff70.chunk.js.LICENSE.txt",
+    "static/css/main.7a252ef8.chunk.css.map": "/north-pole/static/css/main.7a252ef8.chunk.css.map",
+    "static/js/2.764c365f.chunk.js.LICENSE.txt": "/north-pole/static/js/2.764c365f.chunk.js.LICENSE.txt",
     "static/media/about.css": "/north-pole/static/media/about.60dae375.webp",
     "static/media/socials.css": "/north-pole/static/media/tw.0cbd7928.webp",
     "static/media/gallery.css": "/north-pole/static/media/gallery-3.843d6c45.webp",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d2d521f4.js",
-    "static/js/2.8e23ff70.chunk.js",
-    "static/css/main.034106a3.chunk.css",
-    "static/js/main.4202c216.chunk.js"
+    "static/js/2.764c365f.chunk.js",
+    "static/css/main.7a252ef8.chunk.css",
+    "static/js/main.18a432e7.chunk.js"
   ]
 }
