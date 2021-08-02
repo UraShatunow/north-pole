@@ -4,7 +4,7 @@ import './contacts.css';
 
 const Contacts = () => {
   return (
-    <div className="contacts">
+    <div className="contacts" id={"section-contacts"}>
       <div className="contacts__container">
         <form className="form contacts__form" name="register" action="http://httpbin.org/post" method="POST">
             <fieldset className="form__fieldset">

@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 import './app.css';
 
-import { HomePage } from '../pages';
+import { HomePage, ShopPage } from '../pages';
 
 export default class App extends Component {
 
@@ -15,6 +15,7 @@ export default class App extends Component {
             <Switch>
 
               <Route path="/" component={HomePage} exact />
+              <Route path="/shop-page" component={ShopPage} exact />
 
               <Route path='/facebook' component={() => { window.location.href = 'https://www.facebook.com/' }}/>
               <Route path='/twitter' component={() => { window.location.href = 'https://www.twitter.com/' }}/>
