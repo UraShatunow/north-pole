@@ -133,6 +133,18 @@ export default class DummyService {
     getAllItems = async () => {
       return this._items;
     };
-  
+
+    getShopItems() {
+      return new Promise((resolve, reject) => {
+        setTimeout(() => {
+          if (Math.random() > 0.75) {
+            reject(new Error('Something bad happened'));
+          } else {
+            resolve(this._items);
+          }
+        }, 2000);
+      });
+    }
+
   }
   

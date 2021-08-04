@@ -1,0 +1,16 @@
+.error-indicator {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 0;
+}
+
+.error-icon {
+    width: 100px;
+    height: 100px;
+    background: no-repeat center/cover url('./error-icon.png');
+}
+
+.error-indicator p {
+    font-size: 20px;
+}

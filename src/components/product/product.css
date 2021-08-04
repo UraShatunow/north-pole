@@ -1,7 +1,6 @@
 .product {
-    min-height: 100vh;
     background: black;
-    padding-top: 120px;
+    padding: 60px 0;
 }
 
 .product__inner {
