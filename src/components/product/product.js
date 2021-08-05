@@ -51,6 +51,20 @@ export default class Product extends Component {
             backgroundImage: 'url(' + item.imgUrl + ')'
         }
 
+        if (item.reducedCost === '') {
+
+            return (
+                <div key={item.id} className="card">
+                    <div className="card__img" style={divStyle}></div>
+                    <div className="card__inner">
+                        <h3>{item.heading}</h3>
+                        <p><span className="card__cost">{item.cost}</span></p>
+                    </div>
+                </div>
+            )
+
+        }
+
         return (
             <div key={item.id} className="card">
                 <div className="card__img" style={divStyle}></div>
